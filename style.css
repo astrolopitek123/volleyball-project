@@ -1,0 +1,7 @@
+.text:hover {
+    color: red;
+}
+
+.photo:hover {
+    width: 500px;
+}
